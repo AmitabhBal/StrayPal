@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39568440129",
+    "project_id": "straypal-1",
+    "storage_bucket": "straypal-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39568440129:android:783fa88f0519a4a4e5bfc0",
+        "android_client_info": {
+          "package_name": "com.example.straypal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw7JWYXVNxFh-J3xsMQI1fUESrw9ElMr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
